@@ -1,0 +1,5 @@
+version: '3.8'
+services:
+  ascii-art:
+    build: .
+    image: ascii-art-container
